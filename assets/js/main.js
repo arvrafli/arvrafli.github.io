@@ -49,9 +49,9 @@ const sendEmail = (e) => {
   emailjs
     .sendForm(
       "arvrafli",
-      "template_arvrafli",
+      "arvrafli",
       "#contact-form",
-      "CEwJzbjd0j0e7cz2d"
+      "iGGgNj2DMN6PfK2Q"
     )
     .then(
       () => {
