@@ -19,7 +19,7 @@
 
   /* font typography */
   /* .5rem = 8px | 1rem = 16px ... */
-  --body-font: "Bai Jamjuree", sans-serif;
+  --body-font: "Inter", sans-serif;
   --biggest-font-size: 2.5rem;
   --h1-font-size: 1.75rem;
   --h2-font-size: 1.25rem;
